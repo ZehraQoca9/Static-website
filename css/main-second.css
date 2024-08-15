@@ -1,0 +1,76 @@
+.main-second {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+hr {
+    width: 15%;
+    height: 5px;
+    background-color: #E74040;
+}
+
+.main-second-h4 {
+    font-size: 40px;
+    max-width: 400px;
+    margin: 20px 0;
+    
+
+}
+
+.main-second-h6 {
+    font-size: 10px;
+    max-width: 300px;
+    
+    margin-bottom: 20px ;
+}
+
+a {
+    font-size: 13px;
+    color: #23A6F0;
+}
+
+.main-second-img{
+    position: relative;
+}
+
+.kids-img{
+    width: 332px;
+    height: auto;
+}
+
+.blue-box{
+    width: 52px;
+    height: 52px;
+    background-color: #E2F6FF;
+    position: absolute;
+    top: 0px;
+    left: -58px;
+}
+
+.statistic-img{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 14px;
+    left: -110px;
+}
+
+.dashboard-img{
+    width: 362px;
+    height: 110px;
+    position: absolute;
+    top: 180px;
+    left: -100px;
+}
+
+.pink-box{
+    width: 33px;
+    height: 57px;
+    background-color: #FFDCE0;
+    position: absolute;
+    left: 341px;
+    top: 164px;
+}
+

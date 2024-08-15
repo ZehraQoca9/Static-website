@@ -1,0 +1,48 @@
+.header{
+    
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 60px;
+    
+}
+
+.left{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    gap: 20px
+    
+}
+
+li{
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+h3{
+    color: #fff;
+}
+
+.button{
+
+}
+
+.join-us{
+    background-color: #23A6F0;
+    border: none;
+    border-radius: 3px;
+    padding: 6px;
+    margin-left: 30px;
+}

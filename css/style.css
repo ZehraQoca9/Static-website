@@ -1,0 +1,22 @@
+@import url("header.css");
+@import url("main-first.css");
+@import url("carts.css");
+@import url("main-second.css");
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.main-first{
+    background-color: #252B42;
+}
+
+.section-title{
+    color: #fff;
+}
+
